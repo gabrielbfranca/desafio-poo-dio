@@ -1,6 +1,6 @@
 package br.com.dio.desafio.dominio;
 import lombok.Data;
-public class @Data Curso extends Conteudo{
+public @Data class Curso extends Conteudo{
 
     private int cargaHoraria;
 
