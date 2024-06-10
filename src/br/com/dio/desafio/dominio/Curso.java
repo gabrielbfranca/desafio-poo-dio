@@ -1,6 +1,6 @@
 package br.com.dio.desafio.dominio;
-
-public class Curso extends Conteudo{
+import lombok.Data;
+public class @Data Curso extends Conteudo{
 
     private int cargaHoraria;
 
@@ -10,15 +10,6 @@ public class Curso extends Conteudo{
     }
 
     public Curso() {
-    }
-
-
-    public int getCargaHoraria() {
-        return cargaHoraria;
-    }
-
-    public void setCargaHoraria(int cargaHoraria) {
-        this.cargaHoraria = cargaHoraria;
     }
 
     @Override
