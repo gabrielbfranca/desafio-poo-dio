@@ -1,6 +1,7 @@
 package br.com.dio.desafio.dominio;
 
 import java.util.*;
+import lombok.Data;
 
 public class Dev {
     private String nome;
@@ -37,14 +38,6 @@ public class Dev {
                 .sum();*/
     }
 
-
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
 
     public Set<Conteudo> getConteudosInscritos() {
         return conteudosInscritos;
