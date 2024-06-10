@@ -3,7 +3,7 @@ package br.com.dio.desafio.dominio;
 import java.util.*;
 import lombok.Data;
 
-public class Dev {
+public @Data class Dev {
     private String nome;
     private Set<Conteudo> conteudosInscritos = new LinkedHashSet<>();
     private Set<Conteudo> conteudosConcluidos = new LinkedHashSet<>();
