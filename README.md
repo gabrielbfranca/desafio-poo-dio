@@ -4,8 +4,6 @@
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
-
-
 <h2>🛑 Pré-Requisitos</h2>
 
 <p>
@@ -15,7 +13,6 @@
 ✅ Git<br>
 ✅ Conta no GitHub<br>
 </p>
-
 
 <h2> 👣 Passo-a-Passo</h2>
 
@@ -27,4 +24,4 @@
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
-----
+---
